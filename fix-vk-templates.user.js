@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Temporary fix for renamed global variable (__stm was renamed to stManager)
 // @author       mcmimik
-// @match        https://vk.com/
+// @include      https://vk.com/*
 // @grant        none
 // ==/UserScript==
 
